@@ -69,12 +69,12 @@ I am a Software Engineering student at the Peruvian University of Applied Scienc
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="40" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="40" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white" height="40" alt="GitLab" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="40" alt="Postman" />
+  <img src="https://img.shields.io/badge/BoomerangAP-007ACC?style=flat&logo=appveyor&logoColor=white" height="40" alt="BoomerangAP" />
+  <img src="https://img.shields.io/badge/WildFly-005571?style=flat&logo=appveyor&logoColor=white" height="40" alt="WildFly" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" height="40" alt="Jenkins" />
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white" height="40" alt="JIRA" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" height="40" alt="Trello" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" height="40" alt="Slack" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="40" alt="Figma" />
   <img src="https://img.shields.io/badge/Vertabelo-0078D4?style=flat" height="40" alt="Vertabelo" />
   <img src="https://img.shields.io/badge/Structurizr-008000?style=flat" height="40" alt="Structurizr" />
