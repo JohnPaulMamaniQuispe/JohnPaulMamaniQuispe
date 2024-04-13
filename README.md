@@ -10,7 +10,7 @@ I am a Software Engineering student at the Peruvian University of Applied Scienc
 ## Connect with me:
 <p align="center">
   <a href="mailto:john.jpmq@gmail.com">Send Email</a> · 
-  <a href="https://resplendent-alpaca-6a47e2.netlify.app">View Portfolio</a> · 
+  <a href="https://resplendent-alpaca-6a47e2.netlify.appp">View Portfolio</a> · 
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">Connect on LinkedIn</a>
 </p>
 
