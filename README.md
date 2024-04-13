@@ -30,6 +30,7 @@ I am a Software Engineering student at the Peruvian University of Applied Scienc
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" height="40" />
 </p>
 
+
 ### Frameworks & Libraries
 <div align="center">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" height="40" alt="Vue.js" />
@@ -40,12 +41,16 @@ I am a Software Engineering student at the Peruvian University of Applied Scienc
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" height="40" alt="Node.js" />
 </div>
 
+
+
 ### Databases
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="40" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" height="40" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" height="40" alt="PostgreSQL" />
 </div>
+
+
 
 ### Integrated Development Environments (IDEs)
 <div align="center">
@@ -56,18 +61,16 @@ I am a Software Engineering student at the Peruvian University of Applied Scienc
   <img src="https://img.shields.io/badge/PyCharm-143?style=flat&logo=pycharm&logoColor=white" height="40" alt="PyCharm" />
   <img src="https://img.shields.io/badge/WebStorm-143?style=flat&logo=webstorm&logoColor=white" height="40" alt="WebStorm" />
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=eclipseide&logoColor=white" height="40" alt="Eclipse IDE" />
-  <img src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white" height="40" alt="NetBeans IDE" />
 </div>
+
+
 
 ### Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="40" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="40" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white" height="40" alt="GitLab" />
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white" height="40" alt="Bitbucket" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="40" alt="Postman" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="40" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="40" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" height="40" alt="Jenkins" />
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white" height="40" alt="JIRA" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" height="40" alt="Trello" />
@@ -92,19 +95,15 @@ I am a Software Engineering student at the Peruvian University of Applied Scienc
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="40" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="40" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" height="40" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=white" height="40" alt="GitLab CI/CD" />
 </div>
 
 
 ## Hobbies
 <div align="center">
   <img src="https://img.shields.io/badge/Gaming-4A154B?style=flat&logo=nintendo-switch&logoColor=white" height="40" alt="Gaming" />
-  <img src="https://img.shields.io/badge/Photography-1DA1F2?style=flat&logo=flickr&logoColor=white" height="40" alt="Photography" />
   <img src="https://img.shields.io/badge/Reading-E4405F?style=flat&logo=goodreads&logoColor=white" height="40" alt="Reading" />
-  <img src="https://img.shields.io/badge/Cooking-FF6F61?style=flat&logo=foodpanda&logoColor=white" height="40" alt="Cooking" />
   <img src="https://img.shields.io/badge/Travel-FF6F61?style=flat&logo=tripadvisor&logoColor=white" height="40" alt="Travel" />
   <img src="https://img.shields.io/badge/Music-ff69b4?style=flat&logo=spotify&logoColor=white" height="40" alt="Music" />
-  <img src="https://img.shields.io/badge/Movies-0078D4?style=flat&logo=netflix&logoColor=white" height="40" alt="Movies" />
   <img src="https://img.shields.io/badge/Fitness-4A154B?style=flat&logo=fitbit&logoColor=white" height="40" alt="Fitness" />
 </div>
 
