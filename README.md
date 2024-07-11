@@ -4,8 +4,11 @@
 ![John Paul Banner](https://github.com/JohnPaulMamaniQuispe/JohnPaulMamaniQuispe/blob/main/mybanner.png)
 </p>
 <p align="center">
-I am a Software Engineering student at the Peruvian University of Applied Sciences (UPC), where I have honed strong skills in programming and systems analysis. I am well-trained in agile development methodologies and possess a strong orientation towards problem-solving and innovation. As an effective collaborator, I excel in communication and adapt easily to new environments and teams. I am deeply committed to continuous learning and eager to apply emerging technologies in practical settings.
+I am a passionate Software Engineering student in the ninth cycle at the Peruvian University of Applied Sciences (UPC), with exceptional skills in programming and system development. I have honed strong skills in programming and systems analysis, and am well-trained in agile methodologies. Known for my innovative approach and ability to solve complex problems, I excel as an effective collaborator and natural communicator. I possess solid knowledge in software architecture, quality assurance, and continuous process improvement, and adapt easily to new environments and teams. My commitment to continuous learning and the application of cutting-edge technologies motivates me to exceed expectations and make a significant impact on every project I undertake.
 </p>
+
+
+
 
 ## Connect with me:
 <p align="center">
@@ -41,6 +44,9 @@ I am a Software Engineering student at the Peruvian University of Applied Scienc
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" height="40" alt="Spring" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="40" alt="Flutter" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" height="40" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white" height="40" alt="Web3.js" />
+  <img src="https://img.shields.io/badge/Truffle-5E4692?style=flat&logo=truffle&logoColor=white" height="40" alt="Truffle" />
+  <img src="https://img.shields.io/badge/Ganache-744A29?style=flat&logo=ganache&logoColor=white" height="40" alt="Ganache" />
 </div>
 
 
