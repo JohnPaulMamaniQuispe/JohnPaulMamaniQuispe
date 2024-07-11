@@ -13,7 +13,7 @@ I am a passionate Software Engineering student in the ninth cycle at the Peruvia
 ## Connect with me:
 <p align="center">
   <a href="mailto:john.jpmq@gmail.com">Send Email</a> · 
-  <a href="https://resplendent-alpaca-6a47e2.netlify.appp">View Portfolio</a> · 
+  <a href="https://betabyte.netlify.app/">View Portfolio</a> · 
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">Connect on LinkedIn</a>
 </p>
 
