@@ -28,6 +28,8 @@ I am a Software Engineering student at the Peruvian University of Applied Scienc
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Rasa-5A5E9C?style=flat&logo=rasa&logoColor=white" height="40" />
 </p>
 
 
